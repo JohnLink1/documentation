@@ -21,3 +21,5 @@ See our guide for your system:
 - [Linux](linux.md)
 - [Mac OS](mac.md)
 - [Windows](windows.md)
+- 
+A free and easy disk imager for creating the final SD card can be found here: [http://sourceforge.net/projects/win32diskimager/]
